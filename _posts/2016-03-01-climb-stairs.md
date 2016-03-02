@@ -2,6 +2,7 @@
 layout: post
 title: "Climbing Stairs"
 author: anonymous01
+tag: "dynamic programming"
 ---
 
 - 출처: https://leetcode.com/problems/climbing-stairs/
